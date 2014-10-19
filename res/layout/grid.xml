@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+             android:layout_width="match_parent"
+             android:layout_height="match_parent">
+
+    <com.example.cookbook.SquareImageView
+            android:id="@+id/image_grid"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:scaleType="centerCrop"/>
+
+    <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="#7000"
+            android:layout_gravity="bottom">
+
+        <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/text_gridup"
+                android:textColor="#FFF"
+                android:textSize="14sp"
+                android:textStyle="bold"
+                android:text="UP"/>
+
+        <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/text_gridbottom"
+                android:textColor="#FFF"
+                android:textSize="12sp"
+                android:text="bottom"/>
+
+    </LinearLayout>
+
+</FrameLayout>

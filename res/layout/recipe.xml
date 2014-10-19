@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<ScrollView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        xmlns:android="http://schemas.android.com/apk/res/android" android:id="@+id/scrollView">
+
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                  android:orientation="vertical"
+                  android:layout_width="match_parent"
+                  android:layout_height="match_parent">
+
+        <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="200dp"
+                android:scaleType="centerCrop"
+                android:id="@+id/recipe_image"/>
+
+        <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                android:text="Ingredients"
+                android:id="@+id/recipe_label_ingredients"
+                android:layout_margin="8dp"/>
+        <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Name of ingredients"
+                android:id="@+id/recipe_ingredients"
+                android:layout_margin="8dp"/>
+
+        <Button
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/recipe_shop"
+                android:text="Shop"
+                android:layout_gravity="left"
+                android:padding="2dp"
+                android:textSize="14dp"
+                android:layout_marginLeft="8dp"
+                android:background="#99cc00"/>
+        <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                android:text="Instructions"
+                android:id="@+id/recipe_label_instructions"
+                android:layout_margin="8dp"/>
+        <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="The instructions"
+                android:id="@+id/recipe_instructions"
+                android:layout_margin="8dp"/>
+
+
+    </LinearLayout>
+
+
+</ScrollView>

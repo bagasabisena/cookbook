@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Students Cookbook</string>
+
+    <string name="ca_title">Macaroni and Cheese</string>
+    <string name="ca_from">Canada</string>
+    <string name="ca_ingredients">Macaroni noodles (macaroni)\n
+        Grated Gouda cheese (geraspte Gouda kaas)\n
+        Pepper (peper)
+    </string>
+    <string name="ca_instructions">In a pot, boil water. Make sure there is enough to that
+        the macaroni will sit completely submerged and still have room.\n
+        Pour in the macaroni. Let it cook for 7-9 minutes.\n
+        Drain the water from the pot. Serve the macaroni as is and top with Gouda cheese and some pepper.
+    </string>
+
+    <string name="ca2_title">Poutine</string>
+    <string name="ca2_from">Canada</string>
+    <string name="ca2_ingredients">French fries (frieten)
+        \nBrown gravy (bruim jus)
+        \nSmall Gouda cheese cubes (kleine Gouda kaas blokjes)
+    </string>
+    <string name="ca2_instructions">Cook the French fries as instructed on the bag. Cook the gravy as instructed on the bag.
+        \nPut the French fries in a bowl and add gravy. Add the pieces of Gouda cheese on top.
+        \nMicrowave until the cheese is slightly melted and enjoy.
+    </string>
+
+    <string name="ch_title">Cheese with Rice</string>
+    <string name="ch_from">China</string>
+    <string name="ch_ingredients">500 g cooked rice (gekookte rijst）
+        \n5 tbsp oil  (olie)
+        \n2 eggs (eieren)
+        \n30g grated Gouda cheese (geraspte Gouda kaas)
+        \n100 g minced pork (varkensgehakt )
+        \nSalt (zout)
+        \nSugar (suiker)
+        \nPepper (peper)
+    </string>
+    <string name="ch_instructions">Heat half the oil in a large frying pan. the Add the minced pork and Gouda cheese stir-fry for 3 minutes. Add 1/2 teaspoon salt, and sugar and stir-fry for 1 minutes
+        \nAdd the rice to the wok to heat through, Turing and stirring well.
+        \nHeat the remaining oil in another wok. Season the beaten egg with salt and pepper and add to the wok. Stir.
+         \nStir for about 1 minute, then turn the egg mixture into the wok containing the rice. Mix lightly together, then serve in a heated bowl.
+    </string>
+    
+    <string name="de_title">Spätzle with Cheese</string>
+    <string name="de_from">Germany</string>
+    <string name="de_ingredients">500 g Flour (bloem)
+        \n1 tbsp Oil (olie)
+        \n250 ml Water (water)
+        \n4 tsp Salt (zout)
+        \n6 Eggs (eieren)
+        \n3 Onions (uien)
+        \n300 g Gouda, grated (geraspte Gouda kaas)
+        \nServes 4
+    </string>
+    <string name="de_instructions">Combine the eggs, the flour, the oil and all the salt (4 tsp) and mix all together for the dough
+        \nDepending on the size of the eggs you should add some water to make the dough viscous
+        \nIn the meantime bring saltwater to the boil
+        \nPut some dough on a breadboard and scrap it into the water in small noodle shapes
+        \nAfter a short dwell they come back to the surface and can be picked out
+        \nTo make the “Spätzle“ unique “Käsespätzle“ you have to roast them in a pan together with the Gouda until the cheese is molten
+        \nFor serving put some roasted onion on top
+        \nAlternative for low budget or lazy cooks: buy a package of “Spätzle“ and boil them
+    </string>
+
+    <string name="gr_title">Cheese Pie</string>
+    <string name="gr_from">Greece</string>
+    <string name="gr_ingredients">51 package crust
+        \n0.5kg feta cheese
+        \n0.5 kg gouda cheese
+        \n80gr butter
+        \n3 spoons corn flour
+        \n750ml milk
+        \nFreshly ground pepper
+        \n80ml of olive oil for the brushing of the crust
+    </string>
+    <string name="gr_instructions">In a large bowl, grate the gouda and the feta crumbles. In a mixing bowl add the eggs, flour, milk  and pepper. Melt the butter gently without burning and add to the mixture of materials. Mix.
+        \nYou brush the pan with the olive oil and the crust. Then you put the crust (about half of them that are contained in the package) in the pan and you put oil in them.  Pour the filling mixture, you have prepared, spread throughout the pan.
+        \nCover with the remaining crust sheets.
+        \nCarefully chart the pie in squares without reaching the blade of the knife in the filling and bake at 180oC in air for 45 until the cheese to swell and the crust golden
+    </string>
+
+    <string name="in_title">Egg Cheese Rolls</string>
+    <string name="in_from">India</string>
+    <string name="in_ingredients">2 eggs (2 eieren)
+        \n4 slices of bread (4 sneetjes brood)
+        \nGarlic Paste (knoflook pasta)
+        \nOnions (uien)
+        \nGouda Cheese (Gouda kaas)
+        \nChillies (chilli)
+        \nSalt (zout)
+        \nPepper (peper)
+        \nOil/Butter (olie/boter)
+        \nCornflower Powder (korenbloem poeder)
+    </string>
+    <string name="in_instructions">Mix all the ingredients (except bread and oil) together in a bowl.
+        \nLayer bread quarters with the egg-cheese mixture and keep aside.
+        \nHeat oil in a frying pan, carefully slide in the layered bread quarters (mixture side down) into the hot oil. Fry for 2-3 minutes, then turn over to other side. Fry until golden brown on either side.
+        \nDrain excess oil on absorbent paper and serve piping hot, on a bed of cabbage leaves and accompanied by tomato ketchup.
+    </string>
+
+    <string name="id_title">Choco Cheese Roasted Banana</string>
+    <string name="id_from">Indonesia</string>
+    <string name="id_ingredients">Bananas (banaan)
+        \nButter (boter)
+        \nChocolate sprinklers (chocolade hagelslag)
+        \nGouda cheese (Gouda kaas)
+        \nCondensed milk (gecondenseerde melk)
+    </string>
+    <string name="id_instructions">
+        Heat the frying pan and put the butter, wait until it melts
+        \nSlice the banana in half from up to bottom
+        \nPan roast the banana, wait until it become brownish in color
+        \nMove the banana onto the plate
+        \nPut the chocolate sprinklers on top of the banana
+        \nPut the grated gouda cheese on top of the banana
+        \nPour the condensed milk on top of the banana
+    </string>
+
+    <string name="it_title">Lasagne Alla Bolognese</string>
+    <string name="it_from">Italia</string>
+    <string name="it_ingredients">
+        Bolognese sauce (Ragù) 600gr
+        \nLasagne pasta 500 gr
+        \nBèchamel 1 kg
+        \nGouda 200 gr
+        \nButter
+    </string>
+    <string name="it_instructions">
+        Warm the Bolognese Sauce up
+        \nDistribute ?? the butter on a baking pan
+        \nPreheat the oven at 150 °C
+        \nDistribute with a spoon the Bolognese sauce on the bottom of the pan
+        \nCover with a layer of Lasagne pasta
+        \nWith a spoon cover the lasagne with besciamella
+        \nAdd Bolognese sauce and cover with Gouda previously grinded
+        \nThen add another layer of pasta and proceed in the same way until the pan is almost full
+        \nAt this point, in a pot mix the remaining Bèchamel and Ragù and cover the lasagne with      abundant Gouda
+        \nPlace the pan in the oven for about 50-60 minutes until the surface is golden and crispy
+    </string>
+
+    <string name="it2_title">Spaghetti Cacio e Pepe</string>
+    <string name="it2_from">Italia</string>
+    <string name="it2_ingredients">
+        Spaghetti 400 gr
+        \nGouda cheese 160 gr
+        \nBlack pepper
+        \nMint
+    </string>
+    <string name="it2_instructions">
+        Wait until a pot of salted water boils
+        \nGrate Gouda cheese,
+        \nTrow the spaghetti
+        \nWhen cooking time is over, take the spaghetti out and take aside some cooking water
+        \nIntroduce all at once in the pan used to boil water: spaghetti, Gouda, hot water until creamy enough, then grind the black pepper and add couple of leaves
+    </string>
+
+
+</resources>
